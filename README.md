@@ -8,7 +8,7 @@ git clone https://github.com/HonzaKubita/MinGWPath.git
 ```
 
 ```cmd
-start ./MinGWPath/MinGWPath.bat
+call MinGWPath\MinGWPath.bat
 ```
 
 done!
